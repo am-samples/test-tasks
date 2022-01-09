@@ -1,2 +1,2 @@
-# work-app
+# test-task
 Test task & experamental app.
